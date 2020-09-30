@@ -1,2 +1,2 @@
 # Copado-RajeevPlayground
-Copado playground Copado-RajeevPlayground initial repository.
+Copado playground Copado-RajeevPlayground initial repository for Admin.
